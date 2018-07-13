@@ -1,2 +1,2 @@
 # adminLTE
-Integration of database in AdminLTE template using Laravel./
+Integration of database in AdminLTE template using Laravel.
